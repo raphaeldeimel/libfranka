@@ -1,0 +1,8 @@
+<map id="include/franka/robot.h" name="include/franka/robot.h">
+<area shape="rect" id="node6" href="$command__types_8h.html" title="Contains types for the commands that can be sent from franka::Robot. " alt="" coords="687,155,872,181"/>
+<area shape="rect" id="node9" href="$control__types_8h.html" title="Contains helper types for returning motion generation and joint&#45;level torque commands. " alt="" coords="384,80,548,107"/>
+<area shape="rect" id="node11" href="$duration_8h.html" title="Contains the franka::Duration type. " alt="" coords="897,155,1027,181"/>
+<area shape="rect" id="node14" href="$lowpass__filter_8h.html" title="Contains functions for filtering signals with a low&#45;pass filter. " alt="" coords="930,80,1093,107"/>
+<area shape="rect" id="node16" href="$robot__state_8h.html" title="Contains the franka::RobotState types. " alt="" coords="573,80,725,107"/>
+<area shape="rect" id="node18" href="$errors_8h.html" title="Contains the franka::Errors type. " alt="" coords="495,155,611,181"/>
+</map>

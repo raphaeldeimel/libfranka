@@ -1,0 +1,10 @@
+<map id="include/franka/duration.h" name="include/franka/duration.h">
+<area shape="rect" id="node2" href="$gripper__state_8h.html" title="Contains the franka::GripperState type. " alt="" coords="93,80,253,121"/>
+<area shape="rect" id="node4" href="$robot_8h.html" title="Contains the franka::Robot type. " alt="" coords="473,169,634,196"/>
+<area shape="rect" id="node6" href="$examples__common_8h.html" title="Contains common types and functions for the examples. " alt="" coords="525,244,752,271"/>
+<area shape="rect" id="node7" href="$robot__state_8h.html" title="Contains the franka::RobotState types. " alt="" coords="360,80,509,121"/>
+<area shape="rect" id="node3" href="$gripper_8h.html" title="Contains the franka::Gripper type. " alt="" coords="5,169,176,196"/>
+<area shape="rect" id="node5" href="$model_8h.html" title="Contains model library types. " alt="" coords="334,244,501,271"/>
+<area shape="rect" id="node8" href="$log_8h.html" title="Contains helper types for logging sent commands and received robot states. " alt="" coords="200,169,347,196"/>
+<area shape="rect" id="node9" href="$exception_8h.html" title="Contains exception definitions. " alt="" coords="120,244,309,271"/>
+</map>
