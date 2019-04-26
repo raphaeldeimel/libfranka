@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>libfranka</name>
+  <version>0.6.0</version>
+  <description>The libfranka package</description>
+
+  <maintainer email="support@franka.de">user</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>cmake</buildtool_depend>
+
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
